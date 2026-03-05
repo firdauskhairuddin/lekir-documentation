@@ -73,5 +73,5 @@ Guideline document (Guidelines for Lekir Framework Penetration V1 - FINAL.pdf) w
 - Nu'aimman Dinie Roslan Ismani
 
 Reviewed by (Guidelines for Lekir Framework Penetration V1 - FINAL.pdf)
-Malaysian Security Evaluation Facility (MySEF)  
-CyberSecurity Malaysia (CSM)
+- Malaysian Security Evaluation Facility (MySEF)  
+- CyberSecurity Malaysia (CSM)
