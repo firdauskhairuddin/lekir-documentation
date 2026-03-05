@@ -1,2 +1,66 @@
-# lekir-documentation
-Official documentation and guidelines for LekirFramework, a vulnerable-by-design web application platform used to teach and practice web security vulnerabilities.
+# LekirFramework Documentation
+
+This repository contains the **official documentation and guidelines** for **LekirFramework**, a vulnerable-by-design web application platform created to help students, researchers, and cybersecurity professionals learn and practice web application vulnerabilities in a safe environment.
+
+## About LekirFramework
+
+LekirFramework is designed as a **hands-on learning platform for web security**. It intentionally includes vulnerable scenarios that allow users to understand how vulnerabilities work, how they are exploited, and how they should be mitigated.
+
+The platform is commonly used for:
+
+- Web security training
+- Cybersecurity education
+- Capture The Flag (CTF) exercises
+- Penetration testing practice
+- Security research
+
+## Purpose of This Documentation
+
+This documentation provides guidance on:
+
+- Understanding LekirFramework architecture
+- Using the framework for training and learning
+- Implementing vulnerability scenarios
+- Best practices for instructors and learners
+
+## Contributing
+
+We welcome contributions from the cybersecurity community.
+
+If you have ideas for:
+
+- New vulnerability scenarios
+- Security labs
+- Training materials
+- Documentation improvements
+
+Feel free to submit a **Pull Request** or open an **Issue**.
+
+Our goal is to make **LekirFramework a community-driven platform for web security education.**
+
+## Resources
+
+Website  
+https://lekirframework.com
+
+Main Project Repository  
+https://github.com/lekirframework
+
+## Disclaimer
+
+LekirFramework is intentionally vulnerable and should only be used in **controlled environments for educational purposes**. Do not deploy it on production systems.
+
+## Acknowledgement
+
+Guideline document 1 written by  
+MUHAMMAD THAQIF BIN HUD
+MUHAMAD HANIF BIN ZULKIFLI
+ISYRAF IMRAN BIN ZAHARIN
+NIK AMIR HAKIM B NIK BADRUL HISHAM
+
+Guideline document 2 written by  
+Nu'aimman Dinie Roslan Ismani
+
+Reviewed by (Document 2)
+Malaysian Security Evaluation Facility (MySEF)  
+CyberSecurity Malaysia (CSM)
