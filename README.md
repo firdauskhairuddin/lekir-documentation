@@ -52,15 +52,15 @@ LekirFramework is intentionally vulnerable and should only be used in **controll
 
 ## Acknowledgement
 
-Guideline document 1 written by  
-MUHAMMAD THAQIF BIN HUD
-MUHAMAD HANIF BIN ZULKIFLI
-ISYRAF IMRAN BIN ZAHARIN
-NIK AMIR HAKIM B NIK BADRUL HISHAM
+Guideline document (LEKIR Walktrough V2.pdf) written by  
+- Muhammad Thaqif
+- Muhammad Hanif
+- Isyraf Imran
+- Nik Amir Hakim
 
-Guideline document 2 written by  
-Nu'aimman Dinie Roslan Ismani
+Guideline document (Guidelines for Lekir Framework Penetration V1 - FINAL.pdf) written by  
+- Nu'aimman Dinie Roslan Ismani
 
-Reviewed by (Document 2)
+Reviewed by (Guidelines for Lekir Framework Penetration V1 - FINAL.pdf)
 Malaysian Security Evaluation Facility (MySEF)  
 CyberSecurity Malaysia (CSM)
