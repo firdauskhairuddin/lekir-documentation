@@ -46,6 +46,12 @@ https://lekirframework.com
 Main Project Repository  
 https://github.com/lekirframework
 
+Lekir Framework Walkthrough Document v2.0
+https://lekirframework.com/download/LEKIR%20Walktrough%20V2.pdf
+
+Lekir Framework Guidelines v1.0 by CSM - Download here as github only allow max 25MB upload
+https://lekirframework.com/download/Guidelines%20for%20Lekir%20Framework%20Penetration%20V1%20-%20CSM.pdf
+
 ## Disclaimer
 
 LekirFramework is intentionally vulnerable and should only be used in **controlled environments for educational purposes**. Do not deploy it on production systems.
