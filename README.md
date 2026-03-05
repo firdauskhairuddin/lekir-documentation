@@ -10,7 +10,6 @@ The platform is commonly used for:
 
 - Web security training
 - Cybersecurity education
-- Capture The Flag (CTF) exercises
 - Penetration testing practice
 - Security research
 
@@ -18,10 +17,8 @@ The platform is commonly used for:
 
 This documentation provides guidance on:
 
-- Understanding LekirFramework architecture
-- Using the framework for training and learning
-- Implementing vulnerability scenarios
-- Best practices for instructors and learners
+- Understanding common web vulnerability
+- Step by step exploit example
 
 ## Contributing
 
